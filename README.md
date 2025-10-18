@@ -1,3 +1,3 @@
 # Interactive_Assistive_System
 
-![Preview](https://github.com/username/repository-name/blob/main/images/demo.png?raw=true)
+![Preview](https://github.com/Hansika2024/Interactive_Assistive_System/blob/main/Picture1.jpg)
